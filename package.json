@@ -1,0 +1,24 @@
+{
+  "name": "icosnake",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tdhooper/icosnake.git"
+  },
+  "author": "",
+  "license": "CC-BY-NC-4.0",
+  "bugs": {
+    "url": "https://github.com/tdhooper/icosnake/issues"
+  },
+  "homepage": "https://github.com/tdhooper/icosnake",
+  "dependencies": {
+    "bezier-js": "^1.0.8",
+    "graphlib": "^1.0.7",
+    "three": "^0.72.0"
+  }
+}
